@@ -15,7 +15,7 @@ program
 
 program
   .command('top')
-  .description('list top 5 news headlines')
+  .description('paginates a collection of 20 top news headlines')
   .action(() => {
     const url = 'https://newsapi.org/v2/top-headlines?' + 
       'country=us&' + `apiKey=${process.env.API_KEY}`;
@@ -41,4 +41,3 @@ program.parse(process.argv);
 if (!program.args.filter(arg => typeof arg == 'object').length) {
   program.help();
 }
-
