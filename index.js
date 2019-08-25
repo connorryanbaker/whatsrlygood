@@ -12,6 +12,7 @@ require('dotenv').config();
 program
   .version(pkg.version)
   .description(pkg.description)
+  .option('-n, --nofox', 'eliminate Fox News from output');
 
 program
   .command('top')
@@ -29,7 +30,7 @@ program
         console.log('Error: ', err);
         return;
       }
-      const parsed = parse(body);
+      const parsed = parse(body, program.nofox);
       const stories = Object.values(parsed);
 
       paginate(stories);

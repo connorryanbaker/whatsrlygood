@@ -30,4 +30,9 @@ describe('parse', () => {
     expect(reuters.title).to.equal('Iran foreign minister makes surprise visit to France during G7 but has no plans to meet with US - CNBC');
     expect(reuters.description).to.equal('Mohammad Javad Zarif was holding talks with his French counterpart to assess what conditions could lead to a de-escalation of tension between Tehran and Washington, a French official said.')
   });
+
+  it('should respect noFox flag', () => {
+    let noFox = parse(body, true);
+    expect(Object.keys(noFox).length).to.equal(17);
+  });
 });
