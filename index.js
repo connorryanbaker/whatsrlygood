@@ -8,6 +8,12 @@ const parse = require('./lib/body_parse.js');
 const paginate = require('./lib/paginate.js');
 require('dotenv').config();
 
+function displayStories(payload) {
+  const parsed = parse(payload, program.nofox);
+  const stories = Object.values(parsed);
+
+  paginate(stories);
+}
 
 program
   .version(pkg.version)
@@ -30,11 +36,27 @@ program
         console.log('Error: ', err);
         return;
       }
-      const parsed = parse(body, program.nofox);
-      const stories = Object.values(parsed);
-
-      paginate(stories);
+      return displayStories(body);
     });
+  });
+
+program
+  .command('source <source>')
+  .description('paginates a collection of headlines from specified source')
+  .action((source) => {
+    const url = 'https://newsapi.org/v2/top-headlines?' +
+      `sources=${source}&` + `apiKey=${process.env.API_KEY}`;
+    const options = {
+      url,
+      method: 'GET',
+    };
+      request(options, (err, res, body) => {
+        if (err) {
+          console.log('Error: ', err);
+          return;
+        }
+        return displayStories(body);
+      });
   });
 
 program.parse(process.argv);
