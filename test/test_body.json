@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Stephen Sorace",
+      "title": "Lebanon’s Hezbollah vows to shoot down Israeli drones after 2 go down near stronghold on ‘suicide mission’ - Fox News",
+      "description": "Lebanon’s Hezbollah leader vowed Sunday to shoot down any Israeli drones that enter Lebanese airspace from now on after one allegedly crashed and another exploded in Beirut overnight.",
+      "url": "https://www.foxnews.com/world/lebanons-hezbollah-israeli-drones-beirut",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/israel-hezbollah-drones.jpg",
+      "publishedAt": "2019-08-25T18:01:44Z",
+      "content": "Lebanon’s Hezbollah leader vowed Sunday to shoot down any Israeli drones that enter Lebanese airspace from now on after one allegedly crashed and another exploded in Beirut overnight.\r\nHassan Nasrallah said during a speech that one of the drones had been flyi… [+1654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Hong Kong police draw guns, use water cannon in clashes - Al Jazeera English",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=YixjhXRlfjE",
+      "urlToImage": null,
+      "publishedAt": "2019-08-25T17:46:21Z",
+      "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Latimes.com"
+      },
+      "author": "Richard Winton, Carlos Lozano",
+      "title": "L.A. County deputy faked being shot by sniper, officials say - Los Angeles Times",
+      "description": "Deputy Angel Reinosa claimed he was shot while in the  parking lot of the sheriff's station. He later said he used a knife to cut holes in his shirt.",
+      "url": "https://www.latimes.com/california/story/2019-08-24/sheriffs-deputy-admits-he-was-never-shot-at-by-sniper-in-lancaster-authorities-said",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/cd77924/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2F0e%2F6c%2Fc7700aa24509bb830e7a20ca9d80%2Fla-me-sheriff-shot.jpg",
+      "publishedAt": "2019-08-25T17:43:00Z",
+      "content": "A Los Angeles County sheriffs deputy falsely claimed last week he was shot by a sniper at the Lancaster sheriffs station. Hell now be the subject of a criminal investigation, officials said late Saturday.\r\nThe dramatic twist in the case came after days of fru… [+3778 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Shannon Pettypiece",
+      "title": "Trump confronts deep divides with G-7 leaders - NBC News",
+      "description": "There were stark differences over climate change, North Korea, and tariffs among world leaders meeting this weekend and scuffles between White House and French officials.",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-confronts-deep-divides-g-7-leaders-n1046196",
+      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_34/2984626/190825-donald-trump-g7-cs-125p_f017487df9a8399d8d4b66db9e1ef7a6.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2019-08-25T17:22:00Z",
+      "content": "SAINT-JEAN-DE-LUZ, France There were stark differences with climate change, North Korea, and tariffs among world leaders meeting here this weekend and barely concealed strife between White House and French officials.\r\nBut to hear President Donald Trump tell i… [+4487 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Nick Givas",
+      "title": "Americans should take Trump 'very literally' when he speaks, says Treasury Secretary Steve Mnuchin - Fox News",
+      "description": "During an appearance on \"Fox News Sunday\" this week, Treasury Secretary Steve Mnuchin said the American public should take what President Trump says \"very literally,\" when he decides to speak out on a specific issue.",
+      "url": "https://www.foxnews.com/media/donald-trump-media-twitter-fox-news-sunday",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/AP-Trump-Speaking.jpg",
+      "publishedAt": "2019-08-25T17:17:14Z",
+      "content": "During an appearance on \"Fox News Sunday\" this week, Treasury Secretary Steve Mnuchin said the American public should take what President Trump says \"very literally,\" when he decides to speak out on a specific issue.\r\n\"I think most of the time you should take… [+1629 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrew O'Reilly",
+      "title": "Bill Weld 'thrilled' other Republicans are challenging Trump in primary - Fox News",
+      "description": "Former Massachusetts governor – and longshot primary challenger against President Trump for the Republican nomination – said Sunday that he is “thrilled” that other Republicans are joining the primary race.",
+      "url": "https://www.foxnews.com/politics/bill-weld-thrilled-other-republicans-are-challeneging-trump-in-primary",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/04/17/694940094001_6027248421001_6027249480001-vs.jpg",
+      "publishedAt": "2019-08-25T17:14:58Z",
+      "content": "Former Massachusetts Gov. Bill Weld – a longshot primary challenger against President Trump for the Republican nomination – said Sunday that he is “thrilled” that other Republicans are joining the primary race.\r\nWeld’s comments came shortly after former Rep. … [+1445 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Euronews.com"
+      },
+      "author": null,
+      "title": "Tesla scouting sites for possible factory in Germany's NRW - Rheinische Post - Euronews",
+      "description": "FRANKFURT (Reuters) – Electric carmaker Tesla <TSLA.O> is scouting out locations for a possible factory in the German state of North Rhine-Westphalia (NRW), Germany’s most",
+      "url": "https://www.euronews.com/2019/08/25/tesla-scouting-sites-for-possible-factory-in-germanys-nrw-rheinische-post",
+      "urlToImage": "https://static.euronews.com/articles/wires/05/17/71/82/1000x563_tesla-scouting-sites-for-possible-factory-in-germanys-nrw-rheinische-post.jpg",
+      "publishedAt": "2019-08-25T16:36:47Z",
+      "content": "FRANKFURT (Reuters) – Electric carmaker Tesla &lt;TSLA.O&gt; is scouting out locations for a possible factory in the German state of North Rhine-Westphalia (NRW), Germany’s most populous state, daily Rheinische Post reported on Sunday, citing people familiar … [+739 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Doha Madani",
+      "title": "Massive gas explosion wrecks Maryland shopping center, office building - NBC News",
+      "description": "A shopping and office center were badly damaged in a blast seemingly caused by a gas leak in Maryland early Sunday morning.",
+      "url": "https://www.nbcnews.com/news/us-news/massive-gas-explosion-wrecks-maryland-shopping-center-office-building-n1046186",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_34/2984581/190825-gas-explosion-maryland-cs-1103a_5fbb1473fea9da89a8646b44ed9a7485.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2019-08-25T16:24:00Z",
+      "content": "An office and shopping center were partly destroyed in a blast seemingly caused by a gas leak in Columbia, Maryland, early Sunday morning, according to officials.\r\nThe explosion occurred at about 8 a.m. ET, just 30 minutes after first responders received a ca… [+1293 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "N'dea Yancey-Bragg",
+      "title": "NASA astronaut accused of accessing her estranged spouse's bank account; first alleged crime in space - USA TODAY",
+      "description": "Anne McClain allegedly accessed her estranged wife's bank account while on the International Space Station. She denies doing 'anything improper.'",
+      "url": "https://www.usatoday.com/story/news/nation/2019/08/25/astronaut-accused-accessing-her-exs-bank-account-space/2114555001/",
+      "urlToImage": "https://www.gannett-cdn.com/-mm-/0278f8fd08220edb4b92bff68b07912c75075cd6/c=0-206-3500-2175/local/-/media/2018/12/08/USATODAY/usatsports/afp-afp_1bb0xs.jpg?width=3200&height=1680&fit=crop",
+      "publishedAt": "2019-08-25T16:14:00Z",
+      "content": "Astronauts Anne McClain and Christina Koch were to make landmark history, but NASA canceled it keeping their safety in mind before anything else.\r\n USA TODAY\r\nOfficials with NASA are reportedly investigating an allegation that an astronaut accessed the bank a… [+2931 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": "Shannon Van Sant",
+      "title": "Trump Has Second Thoughts On China Trade War - NPR",
+      "description": "The president said he was having second thoughts after hiking tariffs on Chinese goods and threatening to force U.S. companies out of China. The White House said his comments were misinterpreted.",
+      "url": "https://www.npr.org/2019/08/25/754159657/president-trump-walks-back-statements-on-china-white-house-reverses-him",
+      "urlToImage": "https://media.npr.org/assets/img/2019/08/25/ap_19237293795591_wide-90905f1dfd201c5206e11bb72f5a1b8c95c67530.jpg?s=1400",
+      "publishedAt": "2019-08-25T16:12:00Z",
+      "content": "French President Emmanuel Macron (left) and President Trump participate in a G-7 working session. Trump is in Biarritz, France, for the G-7 summit of the world's biggest economic powers.\r\nAndrew Harnik/AP\r\nPresident Trump is meeting with his counterparts at t… [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo.com"
+      },
+      "author": "Tara Mahadevan",
+      "title": "Quavo is Selling Sold-Out Popeyes Chicken Sandwiches for $1,000 Each - Yahoo Entertainment",
+      "description": "The Popeyes chicken sandwich has become highly coveted since selling out at a number of locations.",
+      "url": "https://www.yahoo.com/entertainment/quavo-selling-sold-popeyes-chicken-154328597.html",
+      "urlToImage": "https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
+      "publishedAt": "2019-08-25T15:43:00Z",
+      "content": "Quavo is capitalizing off the Popeyes chicken sandwich mania by selling them for $1,000 a pop.\r\nThe fried chicken eatery recently launched its new chicken sandwich on a brioche bun, and the internet went insane, debating if it was better than Chick-fil-As sig… [+664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tmz.com"
+      },
+      "author": "TMZ Staff",
+      "title": "Kanye West Sunday Service in Dayton - TMZ",
+      "description": "Kanye West is in Dayton, Ohio right now, presiding over his Sunday Service to honor those who died and were injured during the mass shooting earlier this month.",
+      "url": "https://www.tmz.com/2019/08/25/kanye-west-sunday-service-dayton-live-stream/",
+      "urlToImage": "https://imagez.tmz.com/image/24/16by9/2019/08/25/246ee4d1ca9049e8b21bb6ff08e53a69_xl.jpg",
+      "publishedAt": "2019-08-25T15:38:00Z",
+      "content": "Kanye West is in Dayton, Ohio right now, presiding over his Sunday Service to honor those who died and were injured during the mass shooting earlier this month.\r\nThe service is going down at the RiverScape MetoPark to a large crowd.\r\nKim Kardashian and at lea… [+1194 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Mark Kaufman",
+      "title": "Manhattan-sized horde of volcanic rocks journeys across the ocean - Mashable",
+      "description": "Boom.",
+      "url": "https://mashable.com/article/volcanic-rocks-travel-ocean/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F08%252F25%252Ffd%252F3fe9330cc8b84e4e9d4e996ad4f11e07.b2c6a.jpg%252F1200x630.jpg?signature=YbFWBonV88T0BURPWa2GXD29loc=",
+      "publishedAt": "2019-08-25T15:25:00Z",
+      "content": "Kaboom.\r\nSomewhere beneath the waters of the tropical Pacific Ocean, likely around the island of Tonga, a volcano recently erupted. The proof lies in a sprawling raft of extremely lightweight volcanic rock called pumice, which is so porous that it floats. NAS… [+1217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Palmbeachpost.com"
+      },
+      "author": "Antonio Fins",
+      "title": "Tropical Storm Dorian: What the latest advisory says - Palm Beach Post",
+      "description": "Tropical storm warnings and watches have been posted for the eastern Caribbean islands. Cruise ships begin changing itineraries.",
+      "url": "https://www.palmbeachpost.com/news/20190825/tropical-storm-dorian-what-latest-advisory-says",
+      "urlToImage": "https://www.palmbeachpost.com/storyimage/LK/20190825/NEWS/190828312/AR/0/AR-190828312.jpg",
+      "publishedAt": "2019-08-25T15:17:03Z",
+      "content": "Tropical storm warnings and watches have been posted for the eastern Caribbean islands.\r\nThe fourth named storm of the 2019 hurricane season continued to churn toward the eastern Caribbean on Sunday.\r\nTropical storm warnings have been issued for Barbados and … [+1388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnet.com"
+      },
+      "author": "Patrick Holland",
+      "title": "Apple needs to fix the iPhone 11's buttons so accidental screenshots go away - CNET",
+      "description": "Commentary: There are a handful of features I hope Apple improves to make owning the next iPhone a better experience.",
+      "url": "https://www.cnet.com/news/apple-needs-to-fix-the-buttons-on-the-iphone-11-so-accidental-screenshots-go-away/",
+      "urlToImage": "https://cnet4.cbsistatic.com/img/QKLNNRBQPQbRPMBKqjQkJ9f1Pnc=/756x567/2019/07/22/036c03a6-52ca-4664-a707-526466c080ca/iphone-xs-9.jpg",
+      "publishedAt": "2019-08-25T15:09:03Z",
+      "content": "There are a handful of features I want Apple to add to the next iPhone to make it more convenient and have more utility.\r\nAngela Lang/CNET\r\nThe iPhone 11 doesn't need a radical redesign to do well financially, critically or culturally, but it will take severa… [+6825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadspin.com"
+      },
+      "author": "Gabe Fernandez",
+      "title": "Andrew Luck Walked Off To A Chorus Of Boos, And One Guy Yelling \"Don't Do It!\" - Deadspin",
+      "description": "News of Andrew Luck’s impending retirement must have surely been an absolute gut punch to learn about for any Colts fan, but, for some watching Bears-Colts in Indianapolis on Sunday, it also elicited serious feelings of anger. These emotions manifested themse…",
+      "url": "https://deadspin.com/andrew-luck-walked-off-to-a-chorus-of-boos-and-one-guy-1837555984",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--fsw-0p7l--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/sgxm3px06knfpgqp0oax.jpg",
+      "publishedAt": "2019-08-25T14:52:00Z",
+      "content": "News of Andrew Lucks impending retirement must have surely been an absolute gut punch to learn about for any Colts fan, but, for some watching Bears-Colts in Indianapolis on Sunday, it also elicited serious feelings of anger. These emotions manifested themsel… [+1389 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Iran foreign minister makes surprise visit to France during G7 but has no plans to meet with US - CNBC",
+      "description": "Mohammad Javad Zarif was holding talks with his French counterpart to assess what conditions could lead to a de-escalation of tension between Tehran and Washington, a French official said.",
+      "url": "https://www.cnbc.com/2019/08/25/irans-zarif-lands-in-frances-biarritz-talks-with-us-not-on-agenda.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104517647-GettyImages-627772600-javad-zarif.jpg?v=1551128080",
+      "publishedAt": "2019-08-25T14:03:51Z",
+      "content": "Iran's foreign minister flew into the French resort hosting a G7 summit on Sunday, an unexpected twist to a meeting already troubled by differences between U.S. President Donald Trump and Western allies over a raft of issues, including Iran.\r\nMohammad Javad Z… [+1691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bbc.com"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Brexit: Boris Johnson says odds of striking deal 'touch and go' - BBC News",
+      "description": "Boris Johnson previously said the chances of leaving without a deal were \"a million to one\".",
+      "url": "https://www.bbc.com/news/49465298",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p07llv5t.jpg",
+      "publishedAt": "2019-08-25T12:44:08Z",
+      "content": "Media playback is unsupported on your device\r\nMedia captionBoris Johnson: \"In the last few days there's been a sort of dawning realisation in Brussels and other European capitals\"\r\nBoris Johnson has said the chances of a Brexit deal are \"touch and go\" - havin… [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fxempire.com"
+      },
+      "author": null,
+      "title": "Price of Gold Fundamental Weekly Forecast - Could Spike Higher if China Retaliates Against New US Tariffs - FX Empire",
+      "description": "Given China’s retaliatory tariffs on Trump’s August 1 tariffs and the gold market’s reaction, we have to expect China to hit the U.S. with a countermeasure that could send gold prices even higher.",
+      "url": "https://www.fxempire.com/forecasts/article/price-of-gold-fundamental-weekly-forecast-could-spike-higher-if-china-retaliates-against-new-u-s-tariffs-595692",
+      "urlToImage": null,
+      "publishedAt": "2019-08-25T12:41:22Z",
+      "content": "After consolidating for two weeks on below average volume and volatility, gold futures finished higher last week and in a position to challenge a six-year high after U.S. Treasury yields plunged and equities plummeted on increased fears of a U.S. recession. T… [+4787 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "https://www.facebook.com/TechRadar",
+      "title": "Samsung Galaxy Note 10 Plus review - TechRadar India",
+      "description": "Smartphone opulence with an S Pen",
+      "url": "https://www.techradar.com/reviews/samsung-galaxy-note-10-plus-review-and-specs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EZ9VJMhHiH64D9vXuQJmCf-1200-80.jpg",
+      "publishedAt": "2019-08-25T12:20:00Z",
+      "content": "2-minute review\r\nMeet the 6.8-inch Galaxy Note 10 Plus, which is here to prove us wrong whenever we collectively think \"Wow, phone screens can't get any bigger, can they?\" Oh, they can.\r\nAt 6.8 inches, this is a massive Samsung phone with an equally sizable p… [+22964 chars]"
+    }
+  ]
+}

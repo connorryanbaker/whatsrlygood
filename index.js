@@ -4,6 +4,8 @@ const fs = require('fs');
 const program = require('commander');
 const request = require('request');
 const pkg = require('./package.json');
+const parse = require('./lib/body_parse.js');
+const paginate = require('./lib/paginate.js');
 require('dotenv').config();
 
 
@@ -27,8 +29,10 @@ program
         console.log('Error: ', err);
         return;
       }
-      console.log(JSON.stringify(body));
-      
+      const parsed = parse(body);
+      const stories = Object.values(parsed);
+
+      paginate(stories);
     });
   });
 
