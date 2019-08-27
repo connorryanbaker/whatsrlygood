@@ -6,7 +6,7 @@ const request = require('request');
 const pkg = require('./package.json');
 const parse = require('./lib/body_parse.js');
 const paginate = require('./lib/paginate.js');
-require('dotenv').config();
+require('dotenv').config({ path: __dirname+'/.env'});
 
 function displayStories(payload) {
   const parsed = parse(payload, program.nofox);
