@@ -11,8 +11,7 @@ require('dotenv').config();
 function displayStories(payload) {
   const parsed = parse(payload, program.nofox);
   const stories = Object.values(parsed);
-
-  paginate(stories);
+  return paginate(stories);
 }
 
 program
@@ -50,13 +49,35 @@ program
       url,
       method: 'GET',
     };
-      request(options, (err, res, body) => {
-        if (err) {
-          console.log('Error: ', err);
-          return;
-        }
-        return displayStories(body);
-      });
+
+    request(options, (err, res, body) => {
+      if (err) {
+        console.log('Error: ', err);
+        return;
+      }
+      return displayStories(body);
+    });
+  });
+
+program
+  .command('about <about>')
+  .description('paginates a collection of headlines about specified topic')
+  .action((about) => {
+    const date = new Date();
+    const ymd = date.getFullYear() + '-' + (date.getMonth() + 1) + '-' + date.getDate();
+    const url = 'https://newsapi.org/v2/everything?' + `q=${about}&from=${ymd}&sortBy=popularity&apiKey=${process.env.API_KEY}`;
+    const options = {
+      url,
+      method: 'GET',
+    };
+
+    request(options, (err, res, body) => {
+      if (err) {
+        console.log('Error: ', err);
+        return;
+      };
+      return displayStories(body);
+    });
   });
 
 program.parse(process.argv);
